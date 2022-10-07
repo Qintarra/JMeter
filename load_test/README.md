@@ -7,7 +7,7 @@ and run command:
 ```jmeter -n -t 01.get.jmx```  
 -n switch runs jmeter in non-GUI mode  
 -t switch specifies the test file  
-The test file should be in the same directory as JMeter (otherwise declare full file path)  
+The test file should be in the same directory as JMeter (otherwise declare the full file path)  
 
 Note, that listeners are ignored when running through CLI (Only works through the GUI when creating/debugging)  
 It's possible to capture all results information through the *.jtl* file, so in a command line add *-l filename.gtl* (-l switch specifies the log file)  
@@ -19,4 +19,8 @@ Add two simple switches to your command line instructions:
 -e generate report dashboard after load test  
 -o output folder for report dashboard  
 
-![CLI](/screenshots/CLI.png "CLI")
+![CLI](/CLI.png "CLI")
+
+Then open the *index* file in a newly created *getresults* folder to view a dashboard and charts.
+
+![index](/screenshots/dashboard.png "dashboard")
