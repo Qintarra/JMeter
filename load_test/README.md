@@ -19,8 +19,8 @@ Add two simple switches to your command line instructions:
 -e generate report dashboard after load test  
 -o output folder for report dashboard  
 
-![CLI](/CLI.png "CLI")
+![CLI](/JMeter/screenshots/CLI.png "CLI")
 
 Then open the *index* file in a newly created *getresults* folder to view a dashboard and charts.
 
-![index](/screenshots/dashboard.png "dashboard")
+![index](/JMeter/screenshots/dashboard.png "dashboard")
