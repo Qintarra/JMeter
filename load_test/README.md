@@ -13,3 +13,10 @@ Note, that listeners are ignored when running through CLI (Only works through th
 It's possible to capture all results information through the *.jtl* file, so in a command line add *-l filename.gtl* (-l switch specifies the log file)  
 ```jmeter -n -t 01.get.jmx -l getresults.gtl```  
 
+You can use that .jtl file to graph the results within JMeter. Or you could ask JMeter to do most of that for you by creating a dashboard after running the test.  
+Add two simple switches to your command line instructions:  
+```jmeter -n -t 01.get.jmx -l getresults2.gtl -e -o getresults```  
+-e generate report dashboard after load test  
+-o output folder for report dashboard  
+
+![CLI](/screenshots/CLI.png "CLI")
