@@ -1,6 +1,9 @@
 # JMeter
 
-1. Load test:
+#### 1. Load test:
 - adding a thread group, sampler, listener
 - adding timers, assertions, HTTP managers
+- running test through the CLI and saving results to a *.jtl* file
+- importing a *.jtl* file to JMeter graphs
+- creating an HTML dashboard at CLI runtime
 
