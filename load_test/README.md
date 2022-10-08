@@ -1,5 +1,7 @@
 # JMeter
 
+Endpoint: http://www.landonhotel.com/
+
 ### Running a load test through the CLI
 
 Open jmeter.bat in the *bin* folder (path to yout jmeter directory like **\apache-jmeter-5.5\bin**) //jmeter -? *options info*  
@@ -24,3 +26,13 @@ Add two simple switches to your command line instructions:
 Then open the *index* file in a newly created *getresults* folder to view a dashboard and charts.
 
 ![index](/load_test/screenshots/dashboard.png "dashboard")
+
+Settings example:
+
+![Thread_Group](/load_test/screenshots/thread_group.png "Thread Group")
+
+![HTTP_request](/load_test/screenshots/http_request.png "HTTP request")
+
+![Timer](/load_test/screenshots/timer.png "Gaussian Random Timer")
+
+![Summary_Report](/load_test/screenshots/report.png "Summary Report")
