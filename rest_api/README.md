@@ -7,3 +7,4 @@ Endpoint: http://orangevalleycaa.org/api/videos
 #### Sending a POST
 
 1. *Thread Group* > *Sampler* > *HTTP Request*:
+- duplicate it and add GET and POST to their names
