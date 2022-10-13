@@ -10,3 +10,4 @@ Endpoint: http://orangevalleycaa.org/api/videos
 - duplicate it and add GET and POST to their names
 - change the method to *POST* in POST request
 - fill the *Protocol*, *Server Name*, *Path* fields
+- add some parameters in *POST* request 
