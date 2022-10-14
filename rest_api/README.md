@@ -22,3 +22,6 @@ Endpoint: http://orangevalleycaa.org/api/videos
 - duplicate the *POST* request and rename it to *PUT*
 - change the method to *PUT*
 - add a parameter
+
+![PUT Request](/rest_api/screenshots/put_param.jpg "parameter")
+
