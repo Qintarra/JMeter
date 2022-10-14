@@ -16,3 +16,5 @@ Endpoint: http://orangevalleycaa.org/api/videos
 2. Add a *View Results Tree* listener and run the test
 ![POST result](/rest_api/screenshots/post_result.jpg "test run")
 
+#### Sending a PUT
+
