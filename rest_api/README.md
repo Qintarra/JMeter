@@ -13,3 +13,5 @@ Endpoint: http://orangevalleycaa.org/api/videos
 - add some parameters in *POST* request 
 ![POST Parameters](/rest_api/screenshots/post_params.jpg "parameter")
 
+2. Add a *View Results Tree* listener and run the test
+
