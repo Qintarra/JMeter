@@ -21,3 +21,4 @@ Endpoint: http://orangevalleycaa.org/api/videos
 1. Preparing request:
 - duplicate the *POST* request and rename it to *PUT*
 - change the method to *PUT*
+- add a parameter
