@@ -14,4 +14,5 @@ Endpoint: http://orangevalleycaa.org/api/videos
 ![POST Parameters](/rest_api/screenshots/post_params.jpg "parameter")
 
 2. Add a *View Results Tree* listener and run the test
+![POST result](/rest_api/screenshots/post_result.jpg "test run")
 
