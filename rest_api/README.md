@@ -19,3 +19,4 @@ Endpoint: http://orangevalleycaa.org/api/videos
 #### Sending a PUT
 
 1. Preparing request:
+- duplicate the *POST* request and rename it to *PUT*
