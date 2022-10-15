@@ -28,3 +28,5 @@ Endpoint: http://orangevalleycaa.org/api/videos
 ![PUT Request](/rest_api/screenshots/put_param.jpg "parameter")
 
 2. Run a request and check *Response data* and *Request Body*
+
+![PUT result](/rest_api/screenshots/put_request_body.jpg "put request")
