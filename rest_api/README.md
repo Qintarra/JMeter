@@ -11,9 +11,11 @@ Endpoint: http://orangevalleycaa.org/api/videos
 - change the method to *POST* in POST request
 - fill the *Protocol*, *Server Name*, *Path* fields
 - add some parameters in *POST* request 
+
 ![POST Parameters](/rest_api/screenshots/post_params.jpg "parameter")
 
 2. Add a *View Results Tree* listener and run the test
+
 ![POST result](/rest_api/screenshots/post_result.jpg "test run")
 
 #### Sending a PUT
@@ -25,3 +27,4 @@ Endpoint: http://orangevalleycaa.org/api/videos
 
 ![PUT Request](/rest_api/screenshots/put_param.jpg "parameter")
 
+2. Run a request and check *Response data* and *Request Body*
