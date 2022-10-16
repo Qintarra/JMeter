@@ -30,3 +30,7 @@ Endpoint: http://orangevalleycaa.org/api/videos
 2. Run a request and check *Response data* and *Request Body*
 
 ![PUT result](/rest_api/screenshots/put_request_body.jpg "put request")
+
+
+
+#### Sending a DELETE
