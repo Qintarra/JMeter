@@ -34,3 +34,5 @@ Endpoint: http://orangevalleycaa.org/api/videos
 
 
 #### Sending a DELETE
+
+- duplicate the *POST* request and rename it to *DELETE*
