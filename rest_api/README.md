@@ -42,3 +42,4 @@ Endpoint: http://orangevalleycaa.org/api/videos
 
 ![DELETE result](/rest_api/screenshots/delete.jpg "delete request")
 
+** In a real-world situation you would need to be very specific about what you wanted to delete.**
