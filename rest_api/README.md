@@ -31,7 +31,7 @@ Endpoint: http://orangevalleycaa.org/api/videos
 
 ![PUT result](/rest_api/screenshots/put_request_body.jpg "put request")
 
-
+**This is largely dependent on how your database structure. So you would make sure to speak to your developers about this if you didn't understand it or needed some assistance**
 
 #### Sending a DELETE
 
