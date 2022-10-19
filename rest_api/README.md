@@ -39,3 +39,6 @@ Endpoint: http://orangevalleycaa.org/api/videos
 - change the method to *DELETE*
 - choose a parameter to delete
 - run a request
+
+![DELETE result](/rest_api/screenshots/delete.jpg "delete request")
+
