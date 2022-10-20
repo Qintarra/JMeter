@@ -13,3 +13,4 @@
 ### 3. Test scripts: 
 - recording and replaying test scripts
 - sending usernames and passwords
+- data-driven testing with *.csv* files
