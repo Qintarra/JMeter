@@ -11,3 +11,5 @@
 - Sending POST, PUT, and DELETE requests
 
 ### 3. Test scripts: 
+- recording and replaying test scripts
+
