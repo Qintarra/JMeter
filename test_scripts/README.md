@@ -19,3 +19,5 @@
 - copy them and paste them to the *Thread Group* by right-clicking on it
 - now you can delete the *HTTP(S)Test Script Recorder* to tidy up a test a little bit
 - add a listener *View Results Tree* to the *Thread Group* 
+- replay the test script by clicking the *run* button
+
