@@ -8,4 +8,5 @@
 - set up a proxy server (localhost, port: 8888)
 - start recording some actions in your browser (go to http://2834008.youcanlearnit.net/ and navigate through it a bit and then stop recording)
 
-2. Replaying the test script
+2. Replaying the test script:
+- add the *Thread Group* from *Threads (Users)* to your *Test Plan*
