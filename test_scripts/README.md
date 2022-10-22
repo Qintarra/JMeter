@@ -10,3 +10,7 @@
 
 2. Replaying the test script:
 - add the *Thread Group* from *Threads (Users)* to your *Test Plan*
+- also add to *Test Plan* from *Config Element* next elements: 
+    HTTP Header Manager, 
+    HTTP Cookie Manager, 
+    HTTP Cache Manager
