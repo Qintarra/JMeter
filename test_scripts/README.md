@@ -15,3 +15,4 @@
     HTTP Cookie Manager, 
     HTTP Cache Manager
 - select the root request in *HTTP(S)Test Script Recorder*, go to the *Advanced* tab and mark the *Recieve All Embedded Resources* checkbox
+- go to script recorder and select the steps that you want to rerun
