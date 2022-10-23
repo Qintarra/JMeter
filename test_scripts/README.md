@@ -21,3 +21,5 @@
 - add a listener *View Results Tree* to the *Thread Group* 
 - replay the test script by clicking the *run* button
 
+![Replaying](/screenshots/test_script_replaying.jpg "test script")
+
