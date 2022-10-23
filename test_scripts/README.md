@@ -21,11 +21,10 @@
 - add a listener *View Results Tree* to the *Thread Group* 
 - replay the test script by clicking the *run* button
 
-![Replaying](/screenshots/test_script_replaying.jpg "test script")
+![Replaying](/test_scripts/screenshots/test_script_replaying.jpg "test script")
 
 ### Logining In
 
-
-
 ### Data-driven testing with .csv file
+
 
