@@ -26,6 +26,7 @@
 ### Logining In
 
 1. Record your session by login in with a valid username and password:
+- create *HTTP(S) Test Script Recorder* and start recording
 
 2. Preparing a test
 
