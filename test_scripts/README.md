@@ -28,6 +28,7 @@
 1. Record your session by login in with a valid username and password:
 - create *HTTP(S) Test Script Recorder* and start recording
 - open http://2834008.youcanlearnit.net/account/
+- enter the test username *mikesmith@twotreesoliveoil.com* and password *mikeisgreat123* and click the *Sign In*
 
 
 2. Preparing a test
