@@ -25,6 +25,9 @@
 
 ### Logining In
 
+1. Record your session by login in with a valid username and password:
+
+
 ### Data-driven testing with .csv file
 
 
