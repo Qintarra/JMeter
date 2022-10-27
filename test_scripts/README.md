@@ -33,7 +33,7 @@
 
 2. Preparing a test
 - Add the *Thread Group*
-
+- find and copy the POST command from *HTTP(S) Test Script Recorder* to the *Thread Group*
 
 
 
