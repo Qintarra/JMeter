@@ -39,7 +39,7 @@
 - run the test
 
 3. Result
-
+- you can now dig into this result: go into *Response data* and see the HTML that it came back with  
 
 
 
