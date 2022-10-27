@@ -36,7 +36,7 @@
 - find and copy the POST command from *HTTP(S) Test Script Recorder* to the *Thread Group*
 - add a listener *View Results Tree* to the *Thread Group* 
 - you can delete the *HTTP(S)Test Script Recorder* 
-
+- run the test
 
 3. Result
 
