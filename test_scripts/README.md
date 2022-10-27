@@ -32,11 +32,17 @@
 - stop recording
 
 2. Preparing a test
+- Add the *Thread Group*
+
+
+
 
 
 3. Result
 
 
+
+
 ### Data-driven testing with .csv file
 
-tbd
+
