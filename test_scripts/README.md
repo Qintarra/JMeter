@@ -40,7 +40,7 @@
 
 3. Result
 - you can now dig into this result: go into *Response data* and see the HTML that it came back with  
-
+- by using the Text dropdown, you can select HTML to give yourself a better view of what has been returned
 
 
 ### Data-driven testing with .csv file
