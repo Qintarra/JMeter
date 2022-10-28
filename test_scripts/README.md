@@ -48,4 +48,5 @@
 
 1. *Thread Group* > *Config Element* > *CSV Data Set Config*:
 - browse your *CSV* file location in the *Filename* field
+- in the *Variable Names* you can mirror the headings for the columns of the *CSV* file
 
