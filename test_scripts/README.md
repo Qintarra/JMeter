@@ -61,4 +61,4 @@
 
 ![Data Driven Testing](/test_scripts/screenshots/data_driven.jpg "request result")  
 
-**If you have 10 or 100 different credentials in your CSV file all you need to do would be increase the number of threads that you're using**
+**If you have 10 or 100 different credentials in your CSV file, all you need to do – would be to increase the number of threads that you're using**
