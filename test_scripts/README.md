@@ -56,3 +56,4 @@
 - ${password}
 *Note that is a curly braces*
 
+3. Open *View Results Tree* and run the test
