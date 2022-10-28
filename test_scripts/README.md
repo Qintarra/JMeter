@@ -54,3 +54,5 @@
 2. Back to the request and replace the email and password that are on this request for the following values:
 - ${username}
 - ${password}
+*Note that is a curly braces*
+
