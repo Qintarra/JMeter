@@ -52,3 +52,5 @@
 - change *Ignore first line* dropdown to *True* (allows JMeter to ignore the first row of the *CSV* file)
 
 2. Back to the request and replace the email and password that are on this request for the following values:
+- ${username}
+- ${password}
