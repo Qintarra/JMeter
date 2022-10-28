@@ -59,3 +59,5 @@
 3. Open *View Results Tree* and run the test
 - you can see the result in the *Response Data* *Response Body* tab
 
+![Data Driven Testing](/test_scripts/screenshots/data_driven.jpg "request result")
+
