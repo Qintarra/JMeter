@@ -47,3 +47,5 @@
 ### Data-driven testing with .csv file
 
 1. *Thread Group* > *Config Element* > *CSV Data Set Config*:
+- browse your *CSV* file location in the *Filename* field
+
