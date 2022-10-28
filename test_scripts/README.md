@@ -53,11 +53,12 @@
 
 2. Back to the request and replace the email and password that are on this request for the following values:
 - ${username}
-- ${password}
+- ${password}  
 *Note that is a curly braces*
 
 3. Open *View Results Tree* and run the test
 - you can see the result in the *Response Data* *Response Body* tab
 
-![Data Driven Testing](/test_scripts/screenshots/data_driven.jpg "request result")
+![Data Driven Testing](/test_scripts/screenshots/data_driven.jpg "request result")  
 
+**If you have 10 or 100 different credentials in your CSV file all you need to do would be increase the number of threads that you're using**
