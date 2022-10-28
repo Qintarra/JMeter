@@ -41,8 +41,9 @@
 3. Result
 - you can now dig into this result: go into *Response data* and see the HTML that it came back with  
 - by using the Text dropdown, you can select HTML to give yourself a better view of what has been returned
+
 ![Logining In](/test_scripts/screenshots/logining.jpg "test result")
 
 ### Data-driven testing with .csv file
 
-tbd
+1. *Thread Group* > *Config Element* > *CSV Data Set Config*:
