@@ -57,3 +57,5 @@
 *Note that is a curly braces*
 
 3. Open *View Results Tree* and run the test
+- you can see the result in the *Response Data* *Response Body* tab
+
