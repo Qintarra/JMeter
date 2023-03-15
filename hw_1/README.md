@@ -9,48 +9,46 @@ Load on 50, 250, 500 threads.
 <details>  
 <summary>HTTP Request</summary> 
 
-1) http://5.75.203.123:5005/get_method
-request: GET
-name: string
-age: int
+1) http://5.75.203.123:5005/get_method  
+request: GET  
+name: string  
+age: int  
 
+2) http://5.75.203.123:5005/user_info_2  
+request: POST  
+name: string  
+age: int  
+salary: int  
 
-2) http://5.75.203.123:5005/user_info_2
-request: POST
-name: string
-age: int
-salary: int
+3) http://5.75.203.123:5005/user_info_3  
+request: POST  
+name: string  
+age: int  
+salary: int  
 
+4) http://5.75.203.123:5005/object_info_1  
+request: GET  
+name: string  
+age: int  
+weight: int  
 
-3) http://5.75.203.123:5005/user_info_3
-request: POST
-name: string
-age: int
-salary: int
+5) http://5.75.203.123:5005/object_info_2  
+request: GET  
+name: string  
+age: int  
+salary: int  
 
-4) http://5.75.203.123:5005/object_info_1
-request: GET
-name: string
-age: int
-weight: int
+6) http://5.75.203.123:5005/object_info_3  
+request: GET  
+name: string  
+age: int  
+salary: int  
 
-5) http://5.75.203.123:5005/object_info_2
-request: GET
-name: string
-age: int
-salary: int
-
-6) http://5.75.203.123:5005/object_info_3
-request: GET
-name: string
-age: int
-salary: int
-
-7) http://5.75.203.123:5005/object_info_4
-request: GET
-name: string
-age: int
-salary: int
+7) http://5.75.203.123:5005/object_info_4  
+request: GET  
+name: string  
+age: int  
+salary: int  
 
 </details> 
 
@@ -72,12 +70,14 @@ Add two simple switches to your command line instructions:
 -e generate report dashboard after load test  
 -o output folder for report dashboard  
 
+Also, you can use ```jmeter -?``` command for options info   
+
 ![CLI](/hw_1/screenshots/CLI_runs.jpg "CLI")
 
-You can use ```jmeter -?``` command for options info  
+Then open the *index* file in a newly created *getresults_hw1-50* folder to view a dashboard and charts.  
 
-Then open the *index* file in a newly created *getresults* folder to view a dashboard and charts.
+![index](/hw_1/screenshots/dashboard.jpg "dashboard")  
 
-
+Apache JMeter interface:  
 
 ![GUI](/hw_1/screenshots/GUI_tg.jpg "GUI")
