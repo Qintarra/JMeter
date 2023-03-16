@@ -14,3 +14,6 @@
 - recording and replaying test scripts
 - sending usernames and passwords
 - data-driven testing with *.csv* files
+
+#### Homework (hw_1)
+- load test on 50, 250, 500 threads (GET and POST requests)
