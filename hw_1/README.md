@@ -78,7 +78,8 @@ Then open the *index* file in a newly created [getresults_hw1-50](/hw_1/getresul
 
 ![index](/hw_1/screenshots/dashboard.jpg "dashboard")  
 
-hw-1.jmx opened in JMeter interface:  
+hw-1.jmx opened in JMeter interface:    
 
 ![GUI](/hw_1/screenshots/GUI_tg.jpg "GUI")  
 
+If you run a load test through the JMeter GUI, you can save the summary report into a *.csv* file, for example: [summary](/hw_1/hw_1-500_summary.csv)  
