@@ -74,10 +74,11 @@ Also, you can use ```jmeter -?``` command for options info
 
 ![CLI](/hw_1/screenshots/CLI_runs.jpg "CLI")
 
-Then open the *index* file in a newly created *getresults_hw1-50* folder to view a dashboard and charts.  
+Then open the *index* file in a newly created [getresults_hw1-50](/hw_1/getresults_hw1-50) folder to view a dashboard and charts.  
 
 ![index](/hw_1/screenshots/dashboard.jpg "dashboard")  
 
-Apache JMeter interface:  
+hw-1.jmx opened in JMeter interface:  
 
-![GUI](/hw_1/screenshots/GUI_tg.jpg "GUI")
+![GUI](/hw_1/screenshots/GUI_tg.jpg "GUI")  
+
